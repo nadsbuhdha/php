@@ -1,6 +1,5 @@
 ## Installation
-1. Download as .zip or clone this repo using  
-`git clone https://github.com/crjoseabraham/php-mvc.git`  
+1. Download as .zip or clone this repo
 2. Import the `data/todo_db.sql` file to phpMyAdmin
 3. Install composer  
 https://getcomposer.org/download/
